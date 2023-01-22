@@ -14,6 +14,7 @@ body {
   margin: auto;
   display: flex;
   justify-content: center;
+  padding: 15px;
 }
 
 .titulo {
@@ -21,7 +22,7 @@ body {
   margin: 30px auto;
   color: rgb(255, 255, 255);
   text-align:center;
-  background-color: rgb(114, 114, 184);;
+  background-color: rgb(4, 31, 1);;
 }
 
 #titulo2 {
@@ -31,10 +32,10 @@ padding: 15px 0px 0px 0px;
 .box {
   padding: 15px;
   margin: 0 10px 0 10px; 
-  color: rgb(114, 114, 184);
+  color: rgb(4, 31, 1);
   background-color: white;
-  border: 1px solid rgb(114, 114, 184);
-  box-shadow: 5px 5px 5px 5px rgba(114, 114, 184, 0.5);
+  border: 1px solid rgb(4, 31, 1);
+  box-shadow: 5px 5px 5px 5px rgba(4, 31, 1, 0.5);
   border-radius: 0.5em;
   width: 40vw;
   height: auto;
@@ -43,23 +44,23 @@ padding: 15px 0px 0px 0px;
 .btn {
   border: 0;
   color: white;
-  background-color: rgb(114, 114, 184);
+  background-color: rgb(4, 31, 1);
   padding: 10px;
   margin-top: 10px;
   border-radius: 0.5em;
   border: 1px solid rgb(255, 255, 255);
 }
 .btn:hover {
-  color: rgb(114, 114, 184);
+  color: rgb(4, 31, 1);
   background-color: rgb(255, 255, 255);
-  border: 1px solid rgb(114, 114, 184);
-  box-shadow: 5px 5px 5px 5px rgba(114, 114, 184, 0.3);
+  border: 1px solid rgb(4, 31, 1);
+  box-shadow: 5px 5px 5px 5px rgba(4, 31, 1, 0.3);
 }
 
 .text-input {
   font-size: 18px;
   border-radius: 0.5em;
-  border: 1px solid rgb(114, 114, 184);
+  border: 1px solid rgb(4, 31, 1);
   display: block;
   padding: 0.5em;
   width: 100%;
@@ -71,7 +72,7 @@ background-color: rgb(220, 220, 255);
 }
 
 .input-texto{
-  color: rgb(114, 114, 184);
+  color: rgb(4, 31, 1);
 }
 
 #footer{
@@ -79,12 +80,12 @@ background-color: rgb(220, 220, 255);
   margin: 30px auto;
   color: rgb(255, 255, 255);
   text-align:center;
-  background-color: rgb(114, 114, 184);
+  background-color: rgb(4, 31, 1);
 }
 
 #alura {
   float: left;
-  width: 33px;
+  width: 50px;
   }
 
 #one {
